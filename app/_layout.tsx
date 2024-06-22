@@ -12,5 +12,6 @@ export default function RootLayout() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#101114",
+    flex: 1,
   },
 });
